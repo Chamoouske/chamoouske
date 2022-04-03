@@ -17,19 +17,19 @@ Atualmente sou estagiário de infraestrutura no grupo Petruz
 ## Redes Sociais 😘
 <div id="social-media">
   <a href="https://www.linkedin.com/in/AjaxLima/*" target="_blank">
-    <img align="center" alt="ajax-linkedin" width="40" src="https://image.flaticon.com/icons/png/512/124/124011.png" style="max-width:100%">
+    <img align="center" alt="ajax-linkedin" width="40" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" style="max-width:100%">
   </a>
 
   <a href="https://www.facebook.com/ajax.lima" target="_blank">
-    <img align="center" alt="ajax-facebook" width="40" src="https://image.flaticon.com/icons/png/512/174/174848.png" style="max-width:100%">
+    <img align="center" alt="ajax-facebook" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" style="max-width:100%">
   </a>
 
   <a href="https://api.whatsapp.com/send?phone=5591991177940&text=Ol%C3%A1!%20Venho%20do%20github.%20Gostaria%20de%20falar%20com%20voc%C3%AA!" target="_blank">
-    <img align="center" alt="ajax-whatsapp" width="40" src="https://image.flaticon.com/icons/png/512/220/220236.png" style="max-width:100%">
+    <img align="center" alt="ajax-whatsapp" width="40" src="https://cdn-icons-png.flaticon.com/512/1383/1383269.png" style="max-width:100%">
   </a>
 
   <a href="https://www.instagram.com/ajaxlima/" target="_blank">
-    <img align="center" alt="ajax-instagram" width="40" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" style="max-width:100%">
+    <img align="center" alt="ajax-instagram" width="40" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670125.png?token=exp=1649012168~hmac=17d795a8fe6608e3d36609ae21cf5d3d" style="max-width:100%">
   </a>
  </div>
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
