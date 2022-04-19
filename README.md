@@ -29,7 +29,7 @@ Atualmente sou estagiário de infraestrutura no grupo Petruz
   </a>
 
   <a href="https://www.instagram.com/ajaxlima/" target="_blank">
-    <img align="center" alt="ajax-instagram" width="40" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670125.png?token=exp=1649012168~hmac=17d795a8fe6608e3d36609ae21cf5d3d" style="max-width:100%">
+    <img align="center" alt="ajax-instagram" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" style="max-width:100%">
   </a>
  </div>
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
