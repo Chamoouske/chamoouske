@@ -1,20 +1,13 @@
-## Olá visitante ☺️ Eu sou Ajax Lima, fique a vontade 🕵️‍♀️
-💻 Atualmente sou um estudante de desenvolvimento web, divido entre front-end e back-end, mas sempre em busca de conhecimento para aumentar o meu nível de profissionalismo na minha codificação.
-<br/>
-🖥️ Meu atual foco está sendo em React, Nextjs
-<br/>
-🖥️ Tenho conhecimentos básicos em Vuejs, Angular, PHP e algumas outras ferramentas de desenvolvimento web.
-
-<hr/>
-
-## Trabalho Atual 💰
-Atualmente sou estagiário de infraestrutura no grupo Petruz
+## Jobs
+<p>
+  At a moment, I'm a python programmer at Petruz Fruity on Brazil, PA
+</p>
 
 <!-- ---------------------------------------------------Links das redes sociais------------------------------------------------------------------------------- -->
 
 <hr/>
 
-## Redes Sociais 😘
+## Social Medias
 <div id="social-media">
   <a href="https://www.linkedin.com/in/AjaxLima/*" target="_blank">
     <img align="center" alt="ajax-linkedin" width="40" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" style="max-width:100%">
@@ -37,7 +30,7 @@ Atualmente sou estagiário de infraestrutura no grupo Petruz
 <hr/>
 
 <!-- Cards de status do GitHub -->
-## Status GitHub :smiling_face_with_three_hearts:
+## Status GitHub
 <a href="#">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chamoouske&include_all_commits=true&show_icons=true&theme=radical&count_private=true">
   
@@ -47,8 +40,10 @@ Atualmente sou estagiário de infraestrutura no grupo Petruz
 <hr/>
 
 <!-- Área de Skills -->
-## Skills :thinking:
+## Skills
 <a href="#">
+  <img alt="ajax-skill-python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width:100%">
+  
   <img alt="ajax-skill-react" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="max-width:100%">
   
   <img alt="ajax-skill-next" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="max-width:100%">
@@ -65,6 +60,7 @@ Atualmente sou estagiário de infraestrutura no grupo Petruz
 </a>
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<!-- Área da snake das contribuições -->
-![Snake animation](https://github.com/Chamoouske/Chamoouske/blob/output/github-contribution-grid-snake.svg)
-<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/chamoouske/count.svg" />
+</p>
