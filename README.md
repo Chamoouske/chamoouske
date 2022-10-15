@@ -1,6 +1,6 @@
 ## Jobs
 <p>
-  At a moment, I'm a python programmer at Petruz Fruity on Brazil, PA
+  At a moment, I'm a python programmer studying ML creation and deployment.
 </p>
 
 <!-- ---------------------------------------------------Links das redes sociais------------------------------------------------------------------------------- -->
