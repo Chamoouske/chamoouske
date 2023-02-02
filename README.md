@@ -2,6 +2,11 @@
 <p>
   At a moment, I'm a python programmer studying ML creation and deployment.
 </p>
+<p>
+  My portfolio is <a href="https://ajaxlima.vercel.app/" target="_blank">
+    Here
+  </a>
+</p>
 
 <!-- ---------------------------------------------------Links das redes sociais------------------------------------------------------------------------------- -->
 
