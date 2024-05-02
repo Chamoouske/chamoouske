@@ -37,7 +37,7 @@
 <!-- Cards de status do GitHub -->
 ## Status GitHub
 <a href="#">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chamoouske&include_all_commits=true&show_icons=true&theme=radical&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chamoouske&show_icons=true&theme=radical&count_private=true">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamoouske&langs_count=16&layout=compact&theme=radical">
 </a>
